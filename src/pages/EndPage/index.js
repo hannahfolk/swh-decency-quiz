@@ -1,10 +1,10 @@
-import { Link, useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 
 export const EndPage = () => {
   const location = useLocation();
 
   const { score, totalQuestions } = location.state;
-  console.log(score);
+
   return (
     <>
       <h1>
