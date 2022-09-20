@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
-function App() {
+import { EndPage, QuizPage, WelcomePage } from "./pages";
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <Router>
+      <header className="bg-white shadow">
+        <div className="mx-auto max-w-7xl py-6 px-4 sm:px-6 lg:px-8">
+          <Link to="/">
+            <h1 className="text-3xl font-bold tracking-tight text-gray-900">
+              Southern Wushu House Decency Quiz
+            </h1>
+          </Link>
+        </div>
       </header>
-    </div>
+      <main>
+        <div className="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
+          <div className="px-4 py-6 sm:px-0">
+            <div className="rounded-lg border-4 border-dashed border-gray-200 p-10">
+              <Routes>
+                <Route path="/" element={<WelcomePage />} />
+                <Route path="/quiz" element={<QuizPage />} />
+                <Route path="/end" element={<EndPage />} />
+              </Routes>
+            </div>
+          </div>
+        </div>
+      </main>
+    </Router>
   );
-}
+};
 
 export default App;
