@@ -1,0 +1,1 @@
+# swh-decency-quiz
