@@ -1,14 +1,14 @@
 [
   {
-    "question": "All of the following are acceptable behaviors when approaching a \"Wushu Hottie\" in the home, except:",
+    "question": "Which of the following is the most acceptable behavior when approaching a \"Wushu Hottie\" in the home?",
     "answers": [
       "Down a shot and say \"I'm gonna hit on her.\"",
-      "Politely introduce yourself and engage in a decent conversation.",
+      "Break personal space and take a selfie.",
       "Yell \"Lai Lai Lai\" from across the house and coerce her to take a shot.",
-      "Engage in casual Wushu chat.",
+      "Ask Wushu Hottie what their kinks are.",
       "Show her your forms knowing full well that your Wushu is trash."
     ],
-    "correct": "Down a shot and say \"I'm gonna hit on her.\""
+    "correct": "Show her your forms knowing full well that your Wushu is trash."
   },
   {
     "question": "True or False. If a Wushu stranger comments on the size of the spear in the corner, the correct thing to do is say \"That's what she said.\"",
@@ -32,7 +32,7 @@
     "correct": "False"
   },
   {
-    "question": "When your Wushu Bro texts you Happy Birthday, but the Wushu Hottie texts you same thing hours later, which of the following is the correct response.",
+    "question": "When your Wushu Bro texts you \"Happy Birthday\", but the Wushu Hottie texts you same thing hours later, which of the following is the correct response.",
     "answers": [
       "Ignore your bro.",
       "Text the hottie first on the off chance she likes you.",
@@ -59,7 +59,7 @@
     "correct": "False"
   },
   {
-    "question": "You are out training with Wushu Hottie, and you notice her horse stance isn't correct. Which of the following is correct thing to do?",
+    "question": "You are out training with Wushu Hottie, and you notice her horse stance isn't correct. Which of the following is the most correct thing to do?",
     "answers": [
       "Kick or smack her butt until she corrects her form.",
       "Scream that her wushu is trash and she needs to get her act together.",
@@ -78,7 +78,7 @@
       "Ask politely if she is ok with taking a photo with you.",
       "Ask to take a photo and once permission is given, grab that hottie by the waist."
     ],
-    "correct": "Don't take a photo."
+    "correct": "Ask politely if she is ok with taking a photo with you."
   },
   {
     "question": "True of False. Your friend invites you to a practice and you see a Wushu Hottie who is much younger than you. Since she is over 18, you should hit that.",
@@ -87,7 +87,7 @@
   },
   {
     "question": "Which of the following are appropriate emojis to send to Wushu Hottie's DM's inresponse to her hot wushu video:",
-    "answers": ["emoji1", "emoji2", "emoji3", "emoji4", "emoji5"],
-    "correct": "emoji"
+    "answers": ["🤮", "💥", "😍", "😘", "🍆"],
+    "correct": "💥"
   }
 ]
