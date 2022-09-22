@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
 import { Question } from "../../components";
@@ -15,8 +15,11 @@ export const QuizPage = () => {
   );
 
   const handleAnswerClick = (event, correct) => {
+    console.log(event.target.textContent === correct);
+    let updatedScore = score;
     if (event.target.textContent === correct) {
-      setScore(score + 1);
+      updatedScore = score + 1;
+      setScore(updatedScore);
     }
     if (currentQuestion !== questions.length - 1) {
       setCurrentQuestion(currentQuestion + 1);
@@ -24,7 +27,9 @@ export const QuizPage = () => {
         Math.round(((currentQuestion + 2) * 100) / questions.length) + "%"
       );
     } else {
-      navigate("/end", { state: { score, totalQuestions: questions.length } });
+      navigate("/end", {
+        state: { score: updatedScore, totalQuestions: questions.length },
+      });
     }
   };
 
