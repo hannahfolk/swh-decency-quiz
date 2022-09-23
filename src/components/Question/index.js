@@ -1,5 +1,6 @@
 export const Question = (props) => {
   const { question, answers, correct, handleAnswerClick } = props;
+  
   return (
     <div>
       <h1 className="text-xl">{question}</h1>
