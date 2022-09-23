@@ -13,12 +13,17 @@ export const QuizPage = () => {
   const [progress, setProgress] = useState(
     Math.round(((currentQuestion + 1) * 100) / questions.length) + "%"
   );
+  const [usersAnswers, setUsersAnswers] = useState([]);
 
   const handleAnswerClick = (event, correct) => {
-    console.log(event.target.textContent === correct);
+    usersAnswers.push(event.target.textContent);
+    setUsersAnswers(usersAnswers);
     let updatedScore = score;
     if (event.target.textContent === correct) {
       updatedScore = score + 1;
+      setScore(updatedScore);
+    } else if (event.target.textContent === "Do more wushu.") {
+      updatedScore = score + 0.5;
       setScore(updatedScore);
     }
     if (currentQuestion !== questions.length - 1) {
@@ -28,7 +33,11 @@ export const QuizPage = () => {
       );
     } else {
       navigate("/end", {
-        state: { score: updatedScore, totalQuestions: questions.length },
+        state: {
+          usersAnswers,
+          score: updatedScore,
+          totalQuestions: questions.length,
+        },
       });
     }
   };

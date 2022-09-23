@@ -1,9 +1,13 @@
 import { useLocation } from "react-router-dom";
 
+import { Answer } from "../../components";
+
+import questions from "../../questions.json";
+
 export const EndPage = () => {
   const location = useLocation();
 
-  const { score, totalQuestions } = location.state;
+  const { usersAnswers, score, totalQuestions } = location.state;
 
   return (
     <>
@@ -21,6 +25,11 @@ export const EndPage = () => {
         judge of character to enter the Southern Wushu House. Your behavior must
         back up your score, if passing.
       </p>
+
+      <h1 className="mt-10 text-xl">Answers</h1>
+      {questions.map((question, i) => (
+        <Answer key={i} {...question} usersAnswer={usersAnswers[i]} />
+      ))}
     </>
   );
 };
