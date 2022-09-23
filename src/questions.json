@@ -89,5 +89,49 @@
     "question": "Which of the following are appropriate emojis to send to Wushu Hottie's DM's inresponse to her hot wushu video:",
     "answers": ["🤮", "💥", "😍", "😘", "🍆"],
     "correct": "💥"
+  },
+  {
+    "question": "You are a wushu hottie that is being asked to a movie by a non-wushu hottie. You are in a committed relationship. Which of the following is the most correct response to the question?",
+    "answers": [
+      "Cheat on your SO.",
+      "Go to movie but tell non-wushu hottie that you are in a relationship.",
+      "Say you want to go, and you also want to bring your SO with you.",
+      "Ignore the bitch, like a boss.",
+      "Keep leading on the person for no reason."
+    ],
+    "correct": "Say you want to go, and you also want to bring your SO with you."
+  },
+  {
+    "question": "Your friend gives you a pillow so that you can sleep. You are in a relationship with a wushu hottie and want to engage in carnal activities. All of the following are incorrect things to do, except:",
+    "answers": [
+      "Question why you are in a relationship with a wushu hottie who doesn't have a second pillow.",
+      "Grin connivingly at your friend as you drag the pillow into a private room for a night of festivities.",
+      "Use the pillow for carnal activities, burn it, and deny it ever existed.",
+      "Give the pillow back.",
+      "Do more wushu...preferably not on the bed."
+    ],
+    "correct": "Give the pillow back."
+  },
+  {
+    "question": "You are hanging out your friend and a Wushu Hottie. You are very excited about your new Virus compression briefs and want to show them to everyone. Which is the most correct thing to do?",
+    "answers": [
+      "Drop your pants unannounced with a proud grin on your face.",
+      "Do more wushu with pants on the ground.",
+      "Keep your pants on.",
+      "Wait till Wushu Hottie leaves the room and then drop your pants.",
+      "Do more wushu with pants on."
+    ],
+    "correct": "Keep your pants on."
+  },
+  {
+    "question": "You are helping Wushu Hottie respond to a thirsty dude who may be a future co-worker. Which of the following is the most correct response to a DM?",
+    "answers": [
+      "You say you want to meet up again for training in some undefined future time.",
+      "You say you want to meet up again within the next 12-hours.",
+      "You ignore thirsty dude and ruin any chance of future collaboration.",
+      "You follow thirsty dude to South Africa.",
+      "You ask to go out for Boba."
+    ],
+    "correct": "You say you want to meet up again for training in some undefined future time."
   }
 ]
