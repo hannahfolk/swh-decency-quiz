@@ -16,7 +16,7 @@
     "correct": "False"
   },
   {
-    "question": "You notice a Wushu Hottie isn't looking so hot. Which of the following is the correct course of action.",
+    "question": "You notice a Wushu Hottie isn't looking so hot. Which of the following is the correct course of action?",
     "answers": [
       "Offer said hottie a glass of water.",
       "Ignore her/him.",
@@ -27,12 +27,12 @@
     "correct": "Offer said hottie a glass of water."
   },
   {
-    "question": "True of False. When showing affection towards Wushu Hottie, the correct response is to engage in cat-like behavior.",
+    "question": "True or False. When showing affection towards Wushu Hottie, the correct response is to engage in cat-like behavior.",
     "answers": ["True", "False"],
     "correct": "False"
   },
   {
-    "question": "When your Wushu Bro texts you \"Happy Birthday\", but the Wushu Hottie texts you same thing hours later, which of the following is the correct response.",
+    "question": "When your Wushu Bro texts you \"Happy Birthday\", but the Wushu Hottie texts you same thing hours later, which of the following is the correct response?",
     "answers": [
       "Ignore your bro.",
       "Text the hottie first on the off chance she likes you.",
@@ -54,7 +54,7 @@
     "correct": "Ask Isabella for help since your wushu is trash."
   },
   {
-    "question": "True of False. When Dr. Tay is demonstrating proper massage technique, you should stand menacingly over Wushu Hottie until she agrees to let you practice on her.",
+    "question": "True or False. When Dr. Tay is demonstrating proper massage technique, you should stand menacingly over Wushu Hottie until she agrees to let you practice on her.",
     "answers": ["True", "False"],
     "correct": "False"
   },
@@ -67,7 +67,7 @@
       "Do more wushu.",
       "Quit wushu because your horse stance is also trash."
     ],
-    "correct": "Quit wushu because your horse stance is also trash."
+    "correct": "Politely tell her what she can fix and resume practice."
   },
   {
     "question": "You want to take a picture with Wushu Hottie at a party. Which of the following is the correct way to ask for a photo?",
@@ -81,17 +81,17 @@
     "correct": "Ask politely if she is ok with taking a photo with you."
   },
   {
-    "question": "True of False. Your friend invites you to a practice and you see a Wushu Hottie who is much younger than you. Since she is over 18, you should hit that.",
+    "question": "True or False. Your friend invites you to a practice and you see a Wushu Hottie who is much younger than you. Since she is over 18, you should hit that.",
     "answers": ["True", "False"],
     "correct": "False"
   },
   {
-    "question": "Which of the following are appropriate emojis to send to Wushu Hottie's DM's inresponse to her hot wushu video:",
+    "question": "Which of the following are appropriate emojis to send to Wushu Hottie's (of the gender which you are attracted to) DM's in response to their hot wushu video?",
     "answers": ["🤮", "💥", "😍", "😘", "🍆"],
     "correct": "💥"
   },
   {
-    "question": "You are a wushu hottie that is being asked to a movie by a non-wushu hottie. You are in a committed relationship. Which of the following is the most correct response to the question?",
+    "question": "You are a Wushu Hottie that is being asked to a movie by a non-wushu hottie. You are in a committed relationship. Which of the following is the most correct response to the question?",
     "answers": [
       "Cheat on your SO.",
       "Go to movie but tell non-wushu hottie that you are in a relationship.",
@@ -102,9 +102,9 @@
     "correct": "Say you want to go, and you also want to bring your SO with you."
   },
   {
-    "question": "Your friend gives you a pillow so that you can sleep. You are in a relationship with a wushu hottie and want to engage in carnal activities. All of the following are incorrect things to do, except:",
+    "question": "Your friend gives you a pillow so that you can sleep. You are in a relationship with a Wushu Hottie and want to engage in carnal activities. All of the following are incorrect things to do, except:",
     "answers": [
-      "Question why you are in a relationship with a wushu hottie who doesn't have a second pillow.",
+      "Question why you are in a relationship with a Wushu Hottie who doesn't have a second pillow.",
       "Grin connivingly at your friend as you drag the pillow into a private room for a night of festivities.",
       "Use the pillow for carnal activities, burn it, and deny it ever existed.",
       "Give the pillow back.",
@@ -133,5 +133,60 @@
       "You ask to go out for Boba."
     ],
     "correct": "You say you want to meet up again for training in some undefined future time."
+  },
+  {
+    "question": "You believe two Wushu Hotties are dating each other. Which of the following is the most correct way to find out if this is true?",
+    "answers": [
+      "Ask them directly.",
+      "Ask someone else who is close to those two.",
+      "Don't ask.",
+      "Do more wushu.",
+      "Continue to ship them without doing anything about it."
+    ],
+    "correct": "Ask them directly."
+  },
+  {
+    "question": "You are drunk as fuck in a really loud restaurant, and you have an inkling to talk to a Wushu Hottie with whom you have not spoken in many years. Which of the following is the most appropriate thing to do?",
+    "answers": [
+      "Do more wushu.",
+      "Don't do anything.",
+      "Ask a more sober friend to call Wushu Hottie for you.",
+      "Call them and proceed to say things they can't hear or understand.",
+      "Call the Wushu Hottie's significant other."
+    ],
+    "correct": "Ask a more sober friend to call Wushu Hottie for you."
+  },
+  {
+    "question": "You are a Wushu Hottie being hit on by another Wushu Hottie at a competition afterparty. Which of the following is the best way to reject him?",
+    "answers": [
+      "Compare his wushu to a bagel.",
+      "Tell him you'll go on a date with him if he makes A-team at the next team trials.",
+      "Agree to go on a date with him with no catch.",
+      "Do more wushu, but obviously better than him.",
+      "Tell him you'd love to get boba with him, and then flake."
+    ],
+    "correct": "Tell him you'll go on a date with him if he makes A-team at the next team trials."
+  },
+  {
+    "question": "You are interested in a Wushu Hottie. How do you talk to them?",
+    "answers": [
+      "Go up and say hi confidently.",
+      "Let your friends introduce you as godhands.",
+      "Do more wushu.",
+      "Go say hi awkwardly.",
+      "Tell him you have magic hands."
+    ],
+    "correct": "Go up and say hi confidently."
+  },
+  {
+    "question": "You are using your Wushu Hottie bro's bathroom. You notice there are a lot of female products in there, leading you to suspect that he might be dating someone. Which of the following is the best way to confirm this?",
+    "answers": [
+      "Do nothing and just silently suspect that he is dating someone.",
+      "Just assume that all the feminine products are his.",
+      "Ask him if he's dating a specific Wushu Hottie.",
+      "Use the feminine products yourself.",
+      "Do more wushu in the bathroom."
+    ],
+    "correct": "Ask him if he's dating a specific Wushu Hottie."
   }
 ]

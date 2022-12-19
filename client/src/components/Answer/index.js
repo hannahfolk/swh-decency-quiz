@@ -7,7 +7,7 @@ export const Answer = (props) => {
 
   useEffect(() => {
     mapAnswers();
-  });
+  }, []);
 
   const mapAnswers = () => {
     const mappedAnswers = [];
